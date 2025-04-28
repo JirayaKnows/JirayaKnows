@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Jiraya Sensei
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif
+)" width="300" align="right">
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-Competitive%20Programmer-blue" alt="C++ | Competitive Programmer"/>
