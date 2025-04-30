@@ -11,12 +11,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=b3e6ff&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B%20|%20Competitive%20Programmer&speed=60&pause=2000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&color=668cff&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B%20|%20Competitive%20Programmer&speed=60&pause=2000" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=1a1a1a&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B%20|%20Competitive%20Programmer&speed=60&pause=2000" />
+  </picture>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=ccffe6&size=22&center=true&vCenter=true&width=600&lines=Lifelong%20Learner%20|%20Always%20Improving&speed=60&pause=2000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&color=99ff66&size=22&center=true&vCenter=true&width=600&lines=Lifelong%20Learner%20|%20Always%20Improving&speed=60&pause=2000" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=1a1a1a&size=22&center=true&vCenter=true&width=600&lines=Lifelong%20Learner%20|%20Always%20Improving&speed=60&pause=2000" />
+  </picture>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=e6ccff&size=22&center=true&vCenter=true&width=600&lines=Problem%20Solver%20|%20Coding%20Challenges&speed=60&pause=2000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&color=9966ff&size=22&center=true&vCenter=true&width=600&lines=Problem%20Solver%20|%20Coding%20Challenges&speed=60&pause=2000" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=1a1a1a&size=22&center=true&vCenter=true&width=600&lines=Problem%20Solver%20|%20Coding%20Challenges&speed=60&pause=2000" />
+  </picture>
 </p>
+
+
 
 
 - 🔭 I’m currently focused on **Competitive Programming**
@@ -88,11 +99,10 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Graph
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JirayaKnows&theme=radical" alt="GitHub Streak" />
-</p>
+> 📅 Check out the green squares below ⬇️ for my daily coding streaks and activity!
+
 
 ---
 
