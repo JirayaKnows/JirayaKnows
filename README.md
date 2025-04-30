@@ -13,19 +13,20 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&color=668cff&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B%20|%20Competitive%20Programmer&speed=60&pause=2000" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=1a1a1a&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B%20|%20Competitive%20Programmer&speed=60&pause=2000" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3385ff&size=22&center=true&vCenter=true&width=600&lines=C%2B%2B%20|%20Competitive%20Programmer&speed=60&pause=2000" />
   </picture>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&color=99ff66&size=22&center=true&vCenter=true&width=600&lines=Lifelong%20Learner%20|%20Always%20Improving&speed=60&pause=2000" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=1a1a1a&size=22&center=true&vCenter=true&width=600&lines=Lifelong%20Learner%20|%20Always%20Improving&speed=60&pause=2000" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00cc44&size=22&center=true&vCenter=true&width=600&lines=Lifelong%20Learner%20|%20Always%20Improving&speed=60&pause=2000" />
   </picture>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&color=9966ff&size=22&center=true&vCenter=true&width=600&lines=Problem%20Solver%20|%20Coding%20Challenges&speed=60&pause=2000" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=1a1a1a&size=22&center=true&vCenter=true&width=600&lines=Problem%20Solver%20|%20Coding%20Challenges&speed=60&pause=2000" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=884dff&size=22&center=true&vCenter=true&width=600&lines=Problem%20Solver%20|%20Coding%20Challenges&speed=60&pause=2000" />
   </picture>
 </p>
+
 
 
 
